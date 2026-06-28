@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sehnsucht-nach-nahe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Sehnsucht nach Nähe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sehnsucht-nach-nahe/) |
+| **Get License** | [Official Music Licensing for Sehnsucht nach Nähe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sehnsucht-nach-nahe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4600)
 
 ---
 
