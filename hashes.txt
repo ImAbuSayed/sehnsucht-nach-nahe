@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sehnsucht nach Nähe
+
+This log tracks the cryptographic history and versioning for the song **Sehnsucht nach Nähe** (sehnsucht-nach-nahe).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-29T00:35:40.620677 | `v1` | `11fa07e0c2e90ae47752a22efb23d26d77567bb72e6fd00b654060a62e9dbf6c` | `cf55372b99249bf044373b84e2af668cb8f2464b7dab33df8a6dc3afd82ec18e` | `2026-06-29_sehnsucht-nach-nahe-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
