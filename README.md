@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sehnsucht-nach-nahe/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sehnsucht nach Nähe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sehnsucht-nach-nahe/) |
+| **Get License** | [Obtain a Music License for Sehnsucht nach Nähe](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sehnsucht-nach-nahe/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ey, die Stadt ist laut, doch ich hör' nur deinen Namen
+> Baby, steig ein, lass uns durch die Dunkelheit jagen
+> Neonlicht blendet, doch dein Blick ist mein Ziel
+> Wir brechen jede Regel, das ist mehr als ein Spiel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
